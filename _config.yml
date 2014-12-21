@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: I Do Declare
+email: whyidodeclare@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mostly ramblings with occasional lucidity, which though
+  it may happen only once doesn't make me a liar.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://idodeclare.github.io" # the base hostname & protocol for your site
+# twitter_username: 
+github_username:  idodeclare
 
 # Build settings
 markdown: kramdown
