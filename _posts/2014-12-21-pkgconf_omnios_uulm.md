@@ -50,7 +50,8 @@ uulm.mawi   origin   online   http://scott.mathematik.uni-ulm.de/release/
 {% endhighlight %}
 
 The accident occurred in trying to run napp-it.org's instructions for installing
-netatalk (one of the steps on http://napp-it.org/downloads/omnios_en.html) but
+netatalk (one of the steps on [nappit-org's
+omnios_en instructions](http://napp-it.org/downloads/omnios_en.html)) but
 finding the uulm.mawi repository down for service. The napp-it script normally
 adds uulm.mawi transiently and removes it when finished; but when the repository
 was down, the script died and left the repository active.
